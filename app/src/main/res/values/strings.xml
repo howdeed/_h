@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">MyCdi</string>
+    <string name="large_text">
+        "Material is the metaphor.\n\n"
+
+       \n\n"
+    </string>
+    <string name="action_settings">Settings</string>
+</resources>
